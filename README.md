@@ -26,6 +26,10 @@
 4)Push to the branch (git push origin feature/yourfeaturename)<br>
 5)Create a new Pull Request
 <h2>License</h2>
-This project is licensed under the MIT License. See the LICENSE file for details.
+licensed under the MIT License. See the LICENSE file for details.
+<h2>Output</h2>
+ 
+
+https://user-images.githubusercontent.com/115337593/219854048-f6d76470-7b3c-480f-8d56-770a7ffd31c7.mp4
 
 
