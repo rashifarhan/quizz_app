@@ -1,5 +1,5 @@
 <h1>Flutter Quiz App</h1>
-<p>This is a mobile application built using Flutter that allows users to test their knowledge by taking quizzes on various topics. The app is designed to be user-friendly and visually appealing, with an intuitive interface that allows users to easily navigate through the quiz questions.</p>
+<p>This is a mobile application built using Flutter that allows users to test their knowledge by taking quizzes to test your knowledge in Flutter. The app is designed to be user-friendly and visually appealing, with an intuitive interface that allows users to easily navigate through the quiz questions.</p>
 
 <h2>Features</h2>
 <p>1)Spash screen<br>
